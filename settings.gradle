@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AndroidLibraryApp"
 include ':app'
+include ':applibrary'
